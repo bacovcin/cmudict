@@ -65,7 +65,7 @@ A2P = {'AA': 'o',
        'OW': 'ow',
        'OY': 'oy',
        'UH': 'u',
-       'UW': 'us'}
+       'UW': 'uw'}
 A2P_R = {'EH': 'e',
          'AE': 'ae',
          'IH': 'iyr',
